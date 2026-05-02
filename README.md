@@ -4,7 +4,7 @@
 
 ## 👋 Hello and welcome!
 
-I'm a Data Analyst passionate about turning complex data into clear, actionable insights that drive business decisions. A distinguished graduate of Hacktiv8's Comprehensive Data Analytics program with a grade of 94.67/100, I specialize in uncovering patterns, building dashboards, and delivering data stories that matter.
+I'm a Data Analyst passionate about turning complex data into clear, actionable insights that drive business decisions. A distinguished graduate of Hacktiv8's Comprehensive Data Analytics program, I specialize in uncovering patterns, building dashboards, and delivering data stories that matter.
 
 ---
 
