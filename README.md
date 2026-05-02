@@ -4,24 +4,16 @@
 
 ## 👋 Hello and welcome!
 
-I'm **Zafirah Aida Adista**, a **Data Analyst** and **Data Engineer** passionate about transforming raw data into impactful insights. A distinguished graduate of Hacktiv8's Comprehensive Data Analytics program (Grade: **94.67/100**) with a background in Nanotechnology Engineering from **Universitas Airlangga**. I thrive on building end-to-end data pipelines, statistical analysis, and business intelligence solutions to drive strategic decision-making.
+I'm a Data Analyst passionate about turning complex data into clear, actionable insights that drive business decisions. A distinguished graduate of Hacktiv8's Comprehensive Data Analytics program with a grade of 94.67/100, I specialize in uncovering patterns, building dashboards, and delivering data stories that matter.
 
 ---
 
-## 🚀 About Me
-
-- 🌱 **Currently Working On:** Building scalable ETL pipelines with Apache Airflow, Spark, and cloud-based data solutions.
-- 🤝 **Collaboration Interests:** Open to teaming up on end-to-end data engineering, machine learning pipelines, and BI dashboard development.
-- 🔍 **Background Insight:** My Nanotechnology Engineering background gives me a unique analytical perspective — I bring scientific precision to every data problem I solve.
-- ⚡ **Fun Fact:** I ranked in the **Top 10 best graduates** of my study program at Universitas Airlangga (July 2025) and was awarded **Staff of the Year** by BEM FTMM 2024.
-
----
 
 ## 📬 Connect with Me
 
-- 💼 **LinkedIn:** [Connect on LinkedIn](https://linkedin.com/in/zafirah-adista)
+- 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/zafirah-aida-adista-162ab8379/)
 - 📧 **Email:** [zafirah.adistaa@gmail.com](mailto:zafirah.adistaa@gmail.com)
-- 🐙 **GitHub:** [github.com/zafirah-adista](https://github.com/zafirah-adista)
+- 🐙 **GitHub:** [github.com/zafirah-adista](https://github.com/zfrhadis10)
 - 📍 **Location:** Surabaya, Indonesia
 
 ---
@@ -73,14 +65,6 @@ I'm **Zafirah Aida Adista**, a **Data Analyst** and **Data Engineer** passionate
 - 🏅 HackerRank — SQL (Advanced) *(Apr 2026)*
 - 🏅 HackerRank — Python (Basic) *(Apr 2026)*
 - 🏅 Special Skills — Data Analyst Bootcamp *(Nov 2025)*
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zafirah-adista&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zafirah-adista&layout=compact&hide_border=true&theme=default)
 
 ---
 
