@@ -13,7 +13,7 @@ I'm a Data Analyst passionate about turning complex data into clear, actionable 
 
 - 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/zafirah-aida-adista-162ab8379/)
 - 📧 **Email:** [zafirah.adistaa@gmail.com](mailto:zafirah.adistaa@gmail.com)
-- 🐙 **GitHub:** [github.com/zafirah-adista](https://github.com/zfrhadis10)
+- 🐙 **GitHub:** [github.com/zfrhadis10](https://github.com/zfrhadis10)
 - 📍 **Location:** Surabaya, Indonesia
 
 ---
