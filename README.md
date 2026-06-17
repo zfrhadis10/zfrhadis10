@@ -58,6 +58,15 @@ Comprehensive data engineering lifecycle: from automated web scraping on Matahar
 
 ### 🟠 Analytics & Business Intelligence
 
+#### [Kimia Farma Performance Analytics](https://github.com/zfrhadis10/Kimia-Farma-Performance-Analytics)
+`Google BigQuery` `SQL` `Looker Studio` `Business Intelligence`
+
+Built an end-to-end business intelligence solution analyzing **670K+ healthcare transactions** from PT Kimia Farma Tbk (2020–2023). Engineered a centralized analysis table in Google BigQuery by integrating transaction, product, branch, and inventory datasets, while automating financial KPIs including net sales and profit calculations through SQL. Developed an interactive Looker Studio dashboard to monitor revenue trends, regional performance, branch ratings, customer satisfaction, and profitability, transforming fragmented operational data into actionable business insights.
+
+📊 **Interactive Dashboard:** https://datastudio.google.com/reporting/d1b6ef47-5646-4431-be81-304f725fecae/page/57UzF
+
+---
+
 #### [Berlian Commerce Analysis](https://github.com/zfrhadis10/Berlian-Commerce-Analysis)
 `SQL` `PostgreSQL`
 
