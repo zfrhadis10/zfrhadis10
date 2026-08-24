@@ -58,6 +58,13 @@ Comprehensive data engineering lifecycle: from automated web scraping on Matahar
 
 ### 🟠 Analytics & Business Intelligence
 
+#### [Enterprise People Cost & Workforce Expenditure Analytics](https://github.com/zfrhadis10/Enterprise-People-Cost-Analytics/tree/main)
+`Python` `Power BI` `DAX`
+
+Analyzed 1,728 payroll records across 8 divisions and 24 months to uncover a 3.5% (IDR 39.5B) actual vs budget variance. Built an interactive Power BI dashboard with custom DAX measures to surface seasonal budget overruns of up to 26.5% and deliver data-driven cost control recommendations.
+
+---
+
 #### [Kimia Farma Performance Analytics](https://github.com/zfrhadis10/Kimia-Farma-Performance-Analytics)
 `Google BigQuery` `SQL` `Looker Studio` `Business Intelligence`
 
@@ -99,6 +106,15 @@ In-depth performance analysis to identify which advertising channels, creative a
 `SQL` `PostgreSQL` `Power BI`
 
 Analyzed coffee shop sales data using SQL to identify key performance metrics and trends across various store locations during 2025, focusing on product performance, customer behavior, and sales patterns, with an interactive Power BI dashboard for business monitoring.
+
+---
+
+### 🟢 Predictive Modeling & Forecasting
+
+#### [Rupiah Exchange Rate Analysis & Prediction (USD/IDR)](https://github.com/zfrhadis10/Rupiah-Exchange-Rate-Analysis-Prediction-USD-IDR-)
+`Python` `Scikit-learn` `Time Series` `Jupyter`
+
+Predicted USD/IDR exchange rate using 4,277 days of macroeconomic data (2010–2026) across 8 variables and 4 ML models. Linear Regression outperformed Random Forest and Gradient Boosting (R² 0.94, MAE IDR 129) by handling the currency's long-term trend better, exposing an extrapolation limitation in tree-based models.
 
 ---
 
